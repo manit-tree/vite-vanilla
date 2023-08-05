@@ -1,0 +1,1 @@
+Vite Vanilla Template
