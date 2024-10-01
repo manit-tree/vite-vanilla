@@ -5,6 +5,10 @@ Development template for HTML, JavaScript, CSS project. This template includes [
 
 ![image](https://github.com/user-attachments/assets/cf906917-020c-4b7b-b522-ee1910097ef9)
 
+## package.json
+
+![image](https://github.com/user-attachments/assets/ea204c76-6bcc-4ad6-aae9-8d4b0ba6b7b8)
+
 ## Use Cases
 
 - Develop mini project.
