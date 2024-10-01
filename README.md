@@ -1,5 +1,5 @@
 # vite-vanilla
-Development template for HTML, JavaScript, CSS project. This template also includes Teriyaki JS (A light weight JavaScript Helper inspired by jQuery) to make development fast and fun.
+Development template for HTML, JavaScript, CSS project. This template also includes [Teriyaki JS](https://github.com/manit-tree/teriyaki) (A light weight JavaScript Helper inspired by jQuery) to make development fast and fun.
 
 ## Usage
 
