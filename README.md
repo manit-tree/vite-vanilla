@@ -1,3 +1,3 @@
-# Using Geolocation API
+# Vanilla App Template
 
-Mini project for learning Geolocation API
+Development Template for start working with HTML, CSS and JavaScript project

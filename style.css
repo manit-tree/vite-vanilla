@@ -28,8 +28,4 @@ body {
   inset: 0;
   display: grid;
   place-content: center;
-
-  button {
-    padding: 1em 1.5em;
-  }
 }
